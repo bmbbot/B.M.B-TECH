@@ -1,12 +1,30 @@
 
-<a href="https://wa.link/gk0ie1"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
-  <a href="https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
-  <a href="https://www.instagram.com/bmb.md11?igsh=cnBqcjVrY3c3eDl3"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
-  <a href="https://www.facebook.com/share/16F9sbGaXC/"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://github.com/bwbxmd/B.M.B-TECG"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="https://x.com/bmb_xmd?t=dXGMsWLaBasPJ3PZykz8LA&s=09 "> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=85&pause=100000000&color=FFFF00&lines=true&vCenter=true&width=815&height=100&lines=B.M.B-XMD-TECH)](https://git.io/typing-svg) 
+  
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙱.𝙼.𝙱+tech+𝐁𝐎𝐓.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝙱.𝙼.𝙱-𝚇𝙼𝙳+𝐓𝐄𝐂𝐇;𝐜𝐫𝐞𝐚𝐭𝐞𝐝+𝐛𝐲:+𝙱.𝙼.𝙱-𝚇𝙼𝙳+𝐌𝐃;𝐌𝐑:+𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘+🥷;𝐧𝐞𝐰+𝐯𝐢𝐫𝐬𝐢𝐨𝐧+💥;2025+-+2026.&heart;++;Self-taught+Back-Created+By,;𝙱.𝙼.𝙱-𝚇𝙼𝙳+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
- <a href="https://files.catbox.moe/lxxvik.jpg">
- <img alt="B.M.B-XMD" height="300" src="https://files.catbox.moe/qzm0pl.jpg">
+
+
+
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4800color=RRGGBB&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER-B.M.B+🇹🇿+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
+
+
+  
+
+<p align="centre"><img src="https://files.catbox.moe/qg67bk.jpg" width="790" heigh="250"
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4000&color=00FF00&lines=true&vCenter=true&width=815&height=100&lines=B.M.B-XMD+👩‍💻+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4000&color=RRGGBB&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER-𝐁.𝐌.𝐁-𝐗𝐌𝐃+🇹🇿+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙱.𝙼.𝙱+𝚃𝙴𝙲𝙷+𝐁𝐎𝐓.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝙱.𝙼.𝙱+𝚃𝙴𝙲𝙷;𝐜𝐫𝐞𝐚𝐭𝐞𝐝+𝐛𝐲:+𝙱.𝙼.𝙱+𝚃𝙴𝙲𝙷;𝐌𝐑:+𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘+🥷;𝐧𝐞𝐰+𝐯𝐞𝐫𝐬𝐢𝐨𝐧+💥;2025+-+2026.)](https://git.io/typing-svg)
 
