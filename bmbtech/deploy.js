@@ -43,16 +43,16 @@ Hello ${nomAuteurMessage},,
          𝐇𝐎𝐖 𝐓𝐎 𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃
 ✞ Open this link 👉 https://bmb-tech-pair-site.onrender.com/pair   then tap on pair code.
 ✞ Enter your whatsapp number with the country code e.g;  255767862457 then tap submit 
-✞Queen-m owner , *bmb tech* ,will send you the code immediately.Copy the code and whatsapp will bring a notification 
-✞Tap on the notification and paste the code that queen-m owner sent you.
-✞ After a successful login queen-m owner 🤔 bmb tech will send you a *session id* .some will wonder where the hell is that session ,,,...It is just right at your inbox /dm {your own number for whatsappp} 😂
+✞B.M.B-TECH owner , *bmb tech* ,will send you the code immediately.Copy the code and whatsapp will bring a notification 
+✞Tap on the notification and paste the code that bmb tech owner sent you.
+✞ After a successful login bmb tech owner 🤔 bmb tech will send you a *session id* .some will wonder where the hell is that session ,,,...It is just right at your inbox /dm {your own number for whatsappp} 😂
 ✞Copy the Session id {the one with unreadable codes and long copy it and send it to your deployer or deploy
      𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 B.M.B-TECH-V1
 ✔ Now check on queen-m repository in github fork and give a star to this repository before doing anything 🌟or else bmb tech owner won't allow you to deploy his bot🤖.
 ✔Tap on heroku deploy tab  given there. First thing you should do is getting your *Heroku Api Key* insert it to the required space .
 ✔Enter the valid *heroku app name* and again repeat it to the blank space asking for app name accordingly.Fill everything and press on the below tab Deploy
 ✔In some heroku apps the buld logs might not show but it will eventually deploy 
-✔Now click on this devs number and give queen-m owner credits https://wa.me/255767862457
+✔Now click on this devs number and give bmb tech owner credits https://wa.me/255767862457
 ╰────────────────────☆`;
 let menuMsg = `
      𝐑𝐞𝐠𝐚𝐫𝐝𝐬 dev bmb tech`;
